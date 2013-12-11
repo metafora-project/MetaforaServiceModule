@@ -50,7 +50,7 @@ public class MysqlInitConnector {
 						+ e.getMessage());
 				try {
 					// Use metafora as backup if there is no local database
-					url = "jdbc:mysql://metafora.ku-eichstaett.de/metaforafallback?useUnicode=true&characterEncoding=UTF-8";
+					url = "jdbc:mysql://metafora-project.info/metaforafallback?useUnicode=true&characterEncoding=UTF-8";
 					System.err
 							.println("Loading init data from fallback server "
 									+ url);

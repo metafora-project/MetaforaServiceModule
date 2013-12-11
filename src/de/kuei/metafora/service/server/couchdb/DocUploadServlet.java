@@ -30,7 +30,7 @@ import de.kuei.metafora.service.server.xml.CommonFormatCreator;
 import de.kuei.metafora.service.server.xml.XMLException;
 
 public class DocUploadServlet extends HttpServlet {
-	public static String server = "metaforaserver.ku.de";
+	public static String server = "metafora-project.de";
 	public static String user = "admin";
 	public static String password = "didPfCDB";
 

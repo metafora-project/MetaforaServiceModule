@@ -9,7 +9,7 @@ public class ExtendedLogsGenerator {
 
 	public static void main(String[] args) {
 		//generateExtendedLogs("jdbc:mysql://metafora.ku-eichstaett.de/logger?useUnicode=true&characterEncoding=UTF-8");
-		generateExtendedLogs("jdbc:mysql://metaforaserver.ku.de/logger?useUnicode=true&characterEncoding=UTF-8");
+		generateExtendedLogs("jdbc:mysql://metafora-project.de/logger?useUnicode=true&characterEncoding=UTF-8");
 	}
 
 	public static void generateExtendedLogs(String databaseurl) {

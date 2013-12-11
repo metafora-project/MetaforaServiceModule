@@ -21,8 +21,8 @@ public class StartupServlet extends HttpServlet {
 
 	public static boolean logged = true;
 	public static String metafora = "METAFORA";
-	public static String apache = "http://metaforaserver.ku.de";
-	public static String tomcat = "https://metaforaserver.ku.de";
+	public static String apache = "http://metafora-project.de";
+	public static String tomcat = "https://metafora-project.de";
 
 	public static XmppMUC logger;
 	public static XmppMUC analysis;

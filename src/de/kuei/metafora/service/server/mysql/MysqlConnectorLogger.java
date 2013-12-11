@@ -12,7 +12,7 @@ import de.kuei.metafora.service.server.xml.InteractionCreator;
 
 public class MysqlConnectorLogger {
 
-	public static String url = "jdbc:mysql://metaforaserver.ku.de/logger?useUnicode=true&characterEncoding=UTF-8";
+	public static String url = "jdbc:mysql://metaforas-project.de/logger?useUnicode=true&characterEncoding=UTF-8";
 	public static String user = "logwatcher";
 	public static String password = "didPfLW";
 
